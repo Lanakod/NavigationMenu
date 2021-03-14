@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Navigation Menu</string>
+    <string name="color">Цвет</string>
+    <string name="size">Шрифт</string>
+    <string name="developer">Разработчик Малахов М.А. ИС12–20</string>
+    <string name="screen">Следующий экран</string>
+</resources>
